@@ -1,4 +1,4 @@
-# MuOS Concise
+# muOS Concise
 A Sleek and Concise MuOS Theme
 
 *This is an adaptation of the Concise Dark Teal theme for Onion OS created by **mtaras***
